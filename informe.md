@@ -3,6 +3,8 @@
 **Para:** Gerencia de RetailAndina S.A. · **De:** Equipo de Business Intelligence
 **Fecha:** ___/___/2026 · **Asunto:** Primer análisis de los reportes de ventas (semana 39)
 
+> **Formato de entrega:** este documento organiza el contenido del informe. El entregable es su versión final en **PDF** según la **plantilla del curso** (aula virtual), con el enlace de tu repositorio en la carátula; el PDF se incluye en `informes/` de tu fork.
+
 ---
 
 ## Resumen ejecutivo

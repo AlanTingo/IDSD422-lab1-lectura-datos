@@ -48,6 +48,10 @@ Rscript scripts/inspeccion.R
 
 ## Entregable
 
-El informe técnico para gerencia está en `informe.md`. Los criterios con los que se evalúa la práctica están en `EVALUACION.md`.
+1. **Informe en PDF**, siguiendo la plantilla del curso (con el enlace de tu repositorio en la carátula): completas su contenido en `informe.md` (tablas, las 5 respuestas y las conclusiones) y lo viertes a la plantilla.
+2. **El enlace de tu fork**, con los scripts completos y la historia de commits.
+3. Sube el PDF y el enlace en la **tarea del aula virtual**. Los criterios de evaluación están en `EVALUACION.md`.
+
+**Fecha límite:** lunes 19/10/2026, 23:59.
 
 *Laboratorio 1, IDSD422, Estadística y Programación para Ciencia de Datos I, 2026-B.*

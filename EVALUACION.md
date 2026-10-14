@@ -33,6 +33,7 @@
 
 ## Criterios de entrega
 
-1. **Repositorio** con: `README.md`, `informe.md`, `data/` y `scripts/` (entregado por link de GitHub o ZIP del repo).
-2. **Informe** de máximo 3 páginas: código, salidas y respuestas a las 5 preguntas.
-3. **Fecha límite:** lunes 12/10/2026, 23:59. Descuento de 2 puntos por día de atraso.
+1. **Repositorio** (tu fork) con: `README.md`, `informe.md`, `data/`, `scripts/` y el PDF del informe en `informes/`.
+2. **Informe en PDF** siguiendo la plantilla del curso, con el enlace de tu repositorio en la carátula: código, salidas y respuestas a las 5 preguntas.
+3. **Entrega en la tarea del aula virtual:** sube el PDF y pega el enlace de tu fork.
+4. **Fecha límite:** lunes 19/10/2026, 23:59. Descuento de 2 puntos por día de atraso.
